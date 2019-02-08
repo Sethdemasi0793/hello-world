@@ -1,2 +1,3 @@
 # hello-world
-Intro Repository
+# Removed initial statement
+# Made no other changes
